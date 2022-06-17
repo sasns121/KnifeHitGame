@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0d1472613cb4f4c9cad4a7917c682b, type: 3}
+  m_Name: Game1
+  m_EditorClassIdentifier: 
+  _sceneName: Game1
+  _nextSceneName: MainMenu
+  _knife: {fileID: 11400000, guid: aa282cf0d7ea4c64abf3ab23a3a20206, type: 2}
+  _knifeCapacity: 10
+  _backGround: {fileID: -821150212, guid: ff5968da1c5cf134381961a4a78e660d, type: 3}
+  _wheelSprite: {fileID: 21300000, guid: 8311aa010c3e0204aa93219ef1c95f24, type: 3}
+  _spinSpeed: 100
